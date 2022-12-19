@@ -1,0 +1,14 @@
+body, h3, ul, li {
+    margin: 0;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+ul > li {
+    list-style: none;
+}
